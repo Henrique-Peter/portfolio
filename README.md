@@ -7,7 +7,7 @@
 # Henrique Peter
 <sub>*Data Scientist*</sub>
 
-I’m a data scientist who combines creativity and curiosity to extract information, mainly through Python and its libraries, managing to transform big data into practical insights that will help in the efficiency of processes and decisions.
+Combining creativity and curiosity to extract information, mainly through Python and its libraries, I have the skills to transform big data into practical insights that will help in the efficiency of processes and decisions.
 
 Inside the data world, I like to work on finance and digital marketing matters.
 
