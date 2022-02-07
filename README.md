@@ -21,5 +21,6 @@ Inside the data world, I like to work on finance and digital marketing matters.
 ## Projects:
 
 * **Detecção de fraudes em transações com cartões de crédito:** https://bit.ly/3sAKBK3
+* **Análise de dados do Airbnb - Dublin:** https://bit.ly/3gwLTQl
 
 ---
