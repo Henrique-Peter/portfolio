@@ -22,5 +22,6 @@ Inside the data world, I like to work on finance and digital marketing matters.
 
 * **Detecção de fraudes em transações com cartões de crédito:** https://bit.ly/3sAKBK3
 * **Análise de dados do Airbnb em Dublin:** https://bit.ly/3gwLTQl
+* **Análise de dados sobre a vacinação da COVID-19 no Brasil:** https://bit.ly/3tvdDLc
 
 ---
