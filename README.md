@@ -7,11 +7,11 @@
 # Henrique Peter
 <sub>*Data Scientist*</sub>
 
-Combining creativity and curiosity to extract information, mainly through Python and its libraries, I have the skills to transform big data into practical insights that will help in the efficiency of processes and decisions.
+With two years of experience in the data field, I structured the Business Intelligence area of a startup, creating more robust and automated databases. This transformation completely shifted the decision-making culture from a primarily intuition-based approach to one entirely focused on data and evidence-driven decisions. I also established the entire data visualization structure through Power BI dashboards, facilitating access and understanding for stakeholders.
 
-Inside the data world, I like to work on finance and digital marketing matters.
+Working collaboratively with all departments in the company, especially Product, Marketing, and Development, I gained business knowledge from the perspective of each area. This involved understanding and analyzing specific metrics and indicators unique to each department. Additionally, my prior experience in finance allowed me to create revenue forecasts, cost predictions, and churn analyses using statistical techniques and machine learning.
 
-**Background in:** Python, Machine Learning.
+Tools and topics in which I have professional experience include Excel, Power BI, DAX, M, Python, relational databases, API, AWS, Scrum, Google Analytics, Meta Ads, Finance, Statistics and Probability.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/henriquepeter/)
