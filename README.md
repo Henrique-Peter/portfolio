@@ -20,7 +20,7 @@ Tools and topics in which I have professional experience include Excel, Power BI
 
 ## Projects:
 
-* **[Detecção de Fraudes em Cartões de Crédito](https://bit.ly/3JvBiBi)**
+* **[Detecção de Fraudes em Transações Financeiras](http://bit.ly/41rYRaI)**
 * **[Churn Prediction para Empresa de Telecomunicações](https://bit.ly/39HPGLb)**
 * **[Análise de dados sobre a vacinação da COVID-19 no Brasil](https://bit.ly/3tvdDLc)**
 
